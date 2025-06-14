@@ -1,0 +1,22 @@
+# Ignore large model checkpoints
+Food-101-93M/model.safetensors
+Gym-Workout-Classifier-SigLIP2/model.safetensors
+
+# Or entire folders if needed
+Food-101-93M/
+Gym-Workout-Classifier-SigLIP2/
+
+# Standard ignores
+*.safetensors
+*.pt
+*.pth
+*.ckpt
+.DS_Store
+__pycache__/
+*.log
+Food-101-93M/model.safetensors
+Gym-Workout-Classifier-SigLIP2/model.safetensors
+*.safetensors
+*.ckpt
+*.pt
+*.pth
